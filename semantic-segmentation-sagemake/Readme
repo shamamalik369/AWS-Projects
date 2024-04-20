@@ -1,0 +1,24 @@
+
+Task 1: Create Notebook Instance
+
+Task 2: Download the Data
+
+Task 3: Visualize the Data
+
+Task 4: Training Image for the Algorithm and Sagemaker Setup
+
+Task 5: Prepare Data for Sagemaker
+
+Task 6: Uploading Data to S3
+
+Task 7: Sagemaker Estimator
+
+Task 8: Hyperparameters
+
+Task 9: Data Channels
+
+Task 10: Model Training
+
+Task 11: Deploy the Model
+
+Task 12: Inference and Deleting the Endpoint
